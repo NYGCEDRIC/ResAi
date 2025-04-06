@@ -130,7 +130,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Project Link: [https://github.com/yourusername/resai](https://github.com/yourusername/resai)
+Project Link: [https://github.com/yourusername/resai]([https://github.com/yourusername/resai](https://github.com/NYGCEDRIC/ResAi?tab=readme-ov-file))
 
 ---
 
