@@ -128,10 +128,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [Streamlit](https://streamlit.io/)
 - [Tavily Search](https://tavily.com/)
 
-## 📞 Contact
-
-Project Link: [https://github.com/yourusername/resai]([https://github.com/yourusername/resai](https://github.com/NYGCEDRIC/ResAi?tab=readme-ov-file))
-
 ---
 
-**Hackathon Project | 2024 Edition** 🌈
+**Whitman Hackathon Project | 2024 Edition** 🌈
