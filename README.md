@@ -130,4 +130,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**Whitman Hackathon Project | 2024 Edition** 🌈
+**Whitman Hackathon Project | 2024 Edition** 
